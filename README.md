@@ -1,2 +1,2 @@
 # Tco
-Text editor, (that is) COllaborative
+TimeCapsule COrona
